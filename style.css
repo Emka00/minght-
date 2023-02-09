@@ -1,0 +1,90 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+    box-sizing: border-box;
+
+
+}
+table{
+    width: 900px;
+    height: 400px;
+    margin: 100px auto;
+    border-spacing:20px;
+    border-collapse:collapse;
+
+
+
+}
+td{
+    border:1px solid;
+    text-align: center;
+    vertical-align: center;
+}
+
+
+/* 
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-duration: 2s;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+    top: -200px;
+}
+.red{
+    background-color:red;
+    animation-name:red;
+    animation-delay: 2s;
+
+
+}
+.yellow{
+    background-color: yellow;
+    animation-name: yellow;
+    animation-delay: 2s;
+
+}
+.green{
+    background-color: green;
+    animation-name: green;
+    animation-delay: 4s;
+
+}
+@keyframes red{
+    0%{
+        top:-200px;
+
+
+
+    }
+       100%{
+            top:20px;
+       } 
+
+}
+@keyframes yellow{
+    0%{
+        top:-200px;
+
+
+
+    }
+       100%{
+            top:140px
+       } 
+
+}
+@keyframes green{
+    0%{
+        top: -200px;
+
+    }
+       100%{
+            top:260px
+       } 
+
+} */
